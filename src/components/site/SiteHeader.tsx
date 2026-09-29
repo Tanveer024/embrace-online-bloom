@@ -79,7 +79,7 @@ src={scrolled ? darkLogo : logo}
                 scrolled ? "text-muted-foreground" : "text-primary-foreground/70",
               )}
             >
-              Commercial Vehicle Technology
+              Diagnostic Technology
             </span>
           </span>
         </a>
