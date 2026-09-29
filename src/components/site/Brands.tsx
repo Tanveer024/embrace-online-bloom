@@ -11,11 +11,7 @@ import cumminsLogo from "@/assets/brands/cummins.png";
 import perkinsLogo from "@/assets/brands/perkins.png";
 import caterpillarLogo from "@/assets/brands/caterpillar.png";
 import johnDeereLogo from "@/assets/brands/john-deere.png";
-import jaltestLogo from "@/assets/brands/jaltest.png";
-import autoveiLogo from "@/assets/autovei.png";
-import eculiteLogo from "@/assets/eculite.png";
-import engineDanceLogo from "@/assets/enginedance.png";
-import magicLogo from "@/assets/magic-motorsport.jpg";
+
 
 type Brand = { name: string; logo: string };
 
