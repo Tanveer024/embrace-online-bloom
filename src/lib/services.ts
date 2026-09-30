@@ -32,7 +32,7 @@ export const SERVICES: Service[] = [
     body: "Professional truck diagnostics and troubleshooting for complex electrical, electronic, engine, transmission, and communication faults.",
     image: diagnosticsBannerImg,
     alt: "Technician diagnosing a heavy-duty commercial vehicle engine",
-    intro: "AutoDome provides professional truck diagnostics and troubleshooting services in the UAE, helping workshops, fleet operators, and heavy vehicle professionals identify complex electrical, electronic, engine, transmission, and communication faults.",
+    intro: "We provide diagnosis, troubleshooting, and repair for heavy-duty commercial vehicles to keep your fleet running smoothly. Our skilled technicians use advanced tools to find and fix problems quickly and efficiently. From engines and transmissions to electrical and hydraulic systems, we take care of every part of your vehicle. With a focus on reliability, safety, and minimal downtime, we help businesses get the best performance and longer life from their commercial vehicles.",
     overview: [
       "AutoDome provides professional truck diagnostics and troubleshooting services in the UAE, helping workshops, fleet operators, and heavy vehicle professionals identify complex electrical, electronic, engine, transmission, and communication faults. Our diagnostic technology allows us to define the nature of the problem, offer efficient technical solutions, and minimize vehicle downtime. We help transport and logistics companies maintain their fleets in the UAE.",
     ],
@@ -84,7 +84,7 @@ export const SERVICES: Service[] = [
     slug: "ecu-remapping-calibration",
     title: "ECU Remapping & File Tuning",
     short: "ECU Remapping & File Tuning",
-    body: "Expert ECU remapping and tuning for trucks and commercial heavy vehicles, tailored to each application, vehicle, and engine.",
+    body: "We provide ECU remapping tools and file tuning services to enhance the performance, efficiency, and drivability of vehicles. Our advanced tools allow precise adjustments to engine control parameters, while our expert team offers professional file tuning tailored to each vehicle's needs.",
     image: remappingBannerImg,
     alt: "Engineer running ECU remapping and calibration software on a workstation",
     intro: "AutoDome delivers expert ECU remapping and ECU tuning services for all trucks and commercial heavy vehicles in the UAE, adjusting engine control parameters for the intended application, vehicle, and engine.",
@@ -144,7 +144,7 @@ export const SERVICES: Service[] = [
     body: "Professional ECU programming and reprogramming solutions for trucks and heavy vehicles using advanced diagnostic tools and software.",
     image: ecuRepairBannerImg,
     alt: "Engineer repairing a vehicle electronic control unit circuit board",
-    intro: "An ECU (Electronic Control Unit) is an electronic device that oversees and controls the essential aspects of a vehicle. In trucks and heavy automobiles, it gathers sensor data and controls the engine, fuel pump, exhaust, transmission, and other electronic functions.",
+    intro: "Our highly skilled technicians specialize in ECU repairs and reprogramming for all types of engines and gearboxes. We ensure accurate diagnostics, reliable solutions, and professional service to get your vehicles back on the road with optimal performance.",
     overview: [
       "An ECU (Electronic Control Unit) is an electronic device that oversees and controls the essential aspects of a vehicle. In the case of trucks and heavy automobiles, the ECU gathers data from various sensors and controls systems for functions such as engine operation, fuel pump, exhaust, transmission, and other electronic functions.",
     ],
@@ -190,7 +190,7 @@ export const SERVICES: Service[] = [
     slug: "ecu-tuning-softwares",
     title: "Advanced Training Programs",
     short: "Advanced Training Programs",
-    body: "Get Tuning softwares for all trucks, we also provide support for Chinese trucks with customized softwres",
+    body: "We deliver advanced training programs for engineers and technicians, designed to enhance skills and keep professionals up-to-date with the latest automotive technologies. Our hands-on courses cover diagnostics, repair techniques, ECU tuning, and the use of modern tools, providing practical knowledge that can be applied directly in the workshop. With expert instructors and real-world training scenarios, we empower technicians to improve efficiency, accuracy, and overall performance in their work.",
     image: tuningSoftwareImg,
     alt: "Truck ECU tuning software running on a laptop with interface hardware",
     intro:
@@ -222,7 +222,7 @@ export const SERVICES: Service[] = [
     slug: "truck-diagnostic-tools-trading",
     title: "Workshop Tools & Equipment",
     short: "Workshop Tools & Equipment",
-    body: "Choose suitable diagnostic equipment for heavy-duty vehicles and commercial vehicle applications. Our team can help identify the right solution for your workshop.",
+    body: "We specialize in trading workshop tools and equipment, offering a wide range of high-quality products for automotive and industrial workshops. From hand tools and power tools to diagnostic equipment and specialized machinery, we provide reliable solutions to meet every workshop's needs. Our focus is on quality, durability, and affordability, ensuring that professionals have the right tools to work efficiently and maintain high standards of service.",
     image: toolsTradingImg,
     alt: "Professional heavy-duty truck diagnostic tools and interfaces for sale",
     intro:
