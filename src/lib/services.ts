@@ -1,6 +1,6 @@
 import truckRepairImg from "@/assets/svc-2-truck-repair1.jpg";
 import tuningSoftwareImg from "@/assets/svc-5-tuning-software1.jpg";
-import toolsTradingImg from "@/assets/svc-6-tools-trading1.jpg";
+import toolsTradingImg from "@/assets/svc-6-tools-tradin.jpg";
 import diagnosticsBannerImg from "@/assets/service-diagnostics1.jpg";
 import remappingBannerImg from "@/assets/service-ecu-remapping1.jpg";
 import ecuRepairBannerImg from "@/assets/service-ecu-repair1.jpg";
