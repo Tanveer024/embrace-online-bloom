@@ -1,9 +1,9 @@
-import truckRepairImg from "@/assets/svc-2-truck-repair.jpg";
-import tuningSoftwareImg from "@/assets/svc-5-tuning-software.jpg";
-import toolsTradingImg from "@/assets/svc-6-tools-trading.jpg";
-import diagnosticsBannerImg from "@/assets/service-diagnostics.jpg";
+import truckRepairImg from "@/assets/svc-2-truck-repair1.jpg";
+import tuningSoftwareImg from "@/assets/svc-5-tuning-software1.jpg";
+import toolsTradingImg from "@/assets/svc-6-tools-trading1.jpg";
+import diagnosticsBannerImg from "@/assets/service-diagnostics1.jpg";
 import remappingBannerImg from "@/assets/service-ecu-remapping1.jpg";
-import ecuRepairBannerImg from "@/assets/service-ecu-repair.jpg";
+import ecuRepairBannerImg from "@/assets/service-ecu-repair1.jpg";
 
 export type Service = {
   slug: string;
@@ -252,7 +252,7 @@ export const SERVICES: Service[] = [
   },
   {
     slug: "truck-repair-maintenance",
-    title: "Truck Diagnostics & Advanced Repair Support for Fleets in the UAE",
+    title: "Commercial Fleet Maintenance in the UAE",
     short: "Fleet Diagnostics & Repair Support",
     body: "Advanced truck diagnostics and electronic repair support for fleet operators and heavy-vehicle businesses across the UAE.",
     image: truckRepairImg,
